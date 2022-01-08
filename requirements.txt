@@ -1,0 +1,8 @@
+fastapi
+jinja2
+aiofiles
+requests
+uvicorn
+tensorflow
+numpy
+python-multipart
